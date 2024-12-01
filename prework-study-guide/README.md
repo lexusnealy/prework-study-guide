@@ -1,6 +1,6 @@
 # Prework Study Guide Webpage
 
-## The Prework Study Guide was created to showcase languages such as HTML, CSS, Git, and Javascript. I built this project to explain how each language functions and why we use it. I hope that anyone looking to pick up on this skill will be able to use the Prework Study Guide as just that, a guide to your basic knowlege software development!
+## The Prework Study Guide was created to showcase languages such as HTML, CSS, Git, and Javascript. I built this project to explain how each language functions and why we use it. I hope that anyone looking to pick up on this skill will be able to use the Prework Study Guide as just that, a guide to your basic knowlege software development.
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
